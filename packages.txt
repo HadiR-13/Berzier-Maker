@@ -3,3 +3,4 @@ libcairo2-dev
 libagg-dev
 potrace
 build-essential
+libpotrace-dev
